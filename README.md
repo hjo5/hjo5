@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hjo5
-- 👀 I’m interested in python/django/c++ and many fronted language
+- 👀 I’m interested in python/django/c/c++ and many fronted language
 - 🌱 I’m currently learning in college
 
 <!---
